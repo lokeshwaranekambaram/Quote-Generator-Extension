@@ -1,0 +1,11 @@
+{
+    "name": "Quotes-Generator",
+    "version": "1.0.0",
+    "description": "Random Quotes Generator",
+    "manifest_version": 3,
+    "author": "LOKESHWARAN E",
+    "action":{
+        "default_popup": "index.html",
+        "default_title": "Quotes"
+    }
+}
